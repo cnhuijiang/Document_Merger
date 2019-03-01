@@ -1,0 +1,11 @@
+/Users/jimmy/Projects/Document_Merger/Document_Merger/bin/Debug/netcoreapp2.1/Document_Merger.deps.json
+/Users/jimmy/Projects/Document_Merger/Document_Merger/bin/Debug/netcoreapp2.1/Document_Merger.runtimeconfig.json
+/Users/jimmy/Projects/Document_Merger/Document_Merger/bin/Debug/netcoreapp2.1/Document_Merger.runtimeconfig.dev.json
+/Users/jimmy/Projects/Document_Merger/Document_Merger/bin/Debug/netcoreapp2.1/Document_Merger.dll
+/Users/jimmy/Projects/Document_Merger/Document_Merger/bin/Debug/netcoreapp2.1/Document_Merger.pdb
+/Users/jimmy/Projects/Document_Merger/Document_Merger/obj/Debug/netcoreapp2.1/Document_Merger.csprojAssemblyReference.cache
+/Users/jimmy/Projects/Document_Merger/Document_Merger/obj/Debug/netcoreapp2.1/Document_Merger.csproj.CoreCompileInputs.cache
+/Users/jimmy/Projects/Document_Merger/Document_Merger/obj/Debug/netcoreapp2.1/Document_Merger.AssemblyInfoInputs.cache
+/Users/jimmy/Projects/Document_Merger/Document_Merger/obj/Debug/netcoreapp2.1/Document_Merger.AssemblyInfo.cs
+/Users/jimmy/Projects/Document_Merger/Document_Merger/obj/Debug/netcoreapp2.1/Document_Merger.dll
+/Users/jimmy/Projects/Document_Merger/Document_Merger/obj/Debug/netcoreapp2.1/Document_Merger.pdb
